@@ -6,7 +6,7 @@ do
 	extension="${filename##*.}"
 	filename="${filename%.*}"
 
-	pandoc $f -o "$filename.pdf"
+	pandoc $f -c recept.css -o "$filename.pdf"
 
 	echo "Maken $f file..";
 done
