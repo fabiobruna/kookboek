@@ -21,14 +21,14 @@
 
 ## Bereiding
 
-Verwarm de over voor op 150 graden.
+Verwarm de oven voor op 150 graden.
 
 Riblappen in stukken snijden. Snipper de ui grof. Snipper de knoflooktenen.
 Braad de blokjes vlees bruin en zet in een pannetje apart.
 Fruit de ui. Voeg de bloem, knoflook tijm en laurier toe en bak kort. Blus af met de wijn en laat kort koken. Voeg te gezeefde tomaten, suiker en citroen, zout en peper toe.
 Doe alles in de gietijzeren pan en zet voor 3 á 4 uur in de oven.
 
-Snijd de tomaten en de olijben in blokjes. Meng de peterselie. Bestrooi het vlees vlak voor serveren met die mengsel.
+Snijd de tomaten en de olijven in blokjes. Meng de peterselie. Bestrooi het vlees vlak voor serveren met die mengsel.
 
 ## Opmerkingen
 

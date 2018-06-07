@@ -19,7 +19,7 @@
 
 ## Bla
 
-Komt van een bakje voer van de M&S. Erg lekker, wel net iets te zoet, dus rustig aan met de suiker. Verder geen recept bekend dus.
+Komt van een bakje voer van de M&S. Erg lekker, wel net iets te zoet, dus rustig aan met de suiker. Verder geen recept bekend, dit staat op de verpakking.
 
 ## Bereidingswijze
 
@@ -30,3 +30,4 @@ Geen recept bekend.
 Geen recept bekend!
 
 ## Pica
+
