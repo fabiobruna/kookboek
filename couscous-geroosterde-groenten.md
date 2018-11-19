@@ -1,4 +1,6 @@
-# Couscous met geroostede groenten en citroendressing
+# Couscous met geroosterde groenten en citroendressing
+
+Komt van een bakje voer van de M&S. Erg lekker, wel net iets te zoet, dus rustig aan met de suiker. Verder geen recept bekend, de ingredienten komen van de verpakking.
 
 ## Ingredienten
 
@@ -17,17 +19,14 @@
   * Zwart mosterdzaad
   * Peper
 
-## Bla
-
-Komt van een bakje voer van de M&S. Erg lekker, wel net iets te zoet, dus rustig aan met de suiker. Verder geen recept bekend, dit staat op de verpakking.
-
 ## Bereidingswijze
 
 Geen recept bekend.
 
 ## Opmerkingen
 
-Geen recept bekend!
+De M&S is allang weg uit Den Haag :)
 
 ## Pica
 
+\pagebreak

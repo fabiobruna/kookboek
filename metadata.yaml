@@ -1,0 +1,11 @@
+---
+keywords: [koken, kookboek, eten]
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyfoot[LE,LO]{Fabio Bruna}
+  \renewcommand{\footrulewidth}{0.4pt}
+  \addtolength{\hoffset}{-2cm}
+  \addtolength{\voffset}{-1cm}
+  \setlength\footskip{0pt}
+---

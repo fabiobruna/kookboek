@@ -1,5 +1,7 @@
 # Kalfsblanquette met champignons
 
+Stoofgerecht voor de Creuset.
+
 ## Ingredienten
 
   * 1 kg kalfsstoofvlees, in stukken van 4 cm
@@ -20,10 +22,6 @@
   * halve citroen, het sap
   * 3 takjes bladpeterselie
   * peper - zout
-
-## Bla
-
-Voor de Creuset.
 
 ## Bereidingswijze
 
@@ -46,3 +44,5 @@ Bak de champignons kort en hevig met 1 el boter. Voeg het vlees en de champignon
 ## Pica
 
 ![Kalfsblanquette](./kalfsblanquette.jpg)
+
+\pagebreak

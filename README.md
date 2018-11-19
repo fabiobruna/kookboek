@@ -1,9 +1,10 @@
 # kookboek
-Mijn eerste kookboek, of zoiets
+
+Mijn eerste kookboek, een test.
 
 Vereisten:
 
   * pandoc, met pdflatex
   * ghostcript
 
-Schrijft en verwijderd alle pdf's een folder lager(jaja, pas ik nog aan)
+\pagebreak
