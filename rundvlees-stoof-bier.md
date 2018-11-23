@@ -23,17 +23,16 @@ Je moet er even de tijd voor nemen, maar dan heb je ook wel een heerlijke runder
 
 ## Bereidingswijze
 
-Verwarm de oven voor op 150 C.
-Meng zout en peper door de bloem en bestuif het vlees licht met de bloem.
-Bewaar de rest van de bloem.
-Verhit olie in een ovenvaste braadpan en bak het vlees in delen 3 à 4 minuten bruin.
-Haal uit de pan en zet apart.
-Bak de bleekselderij, knoflook en spek in de pan ongeveer 3 minuten.
-Voeg de bloem en tomatenpuree toe en bak 1 minuut.
-Voeg het vlees, het bier, laurierblad, pruimen en de bouillon toe en breng langzaam aan de kook.
+* Verwarm de oven voor op 150 C.
+* Meng zout en peper door de bloem en bestuif het vlees licht met de bloem. Bewaar de rest van de bloem.
+
+* Verhit olie in een ovenvaste braadpan en bak het vlees in delen 3 à 4 minuten bruin. Haal uit de pan en zet apart.
+* Bak de bleekselderij, knoflook en spek in de pan ongeveer 3 minuten. Voeg de bloem en tomatenpuree toe en bak 1 minuut.
+* Voeg het vlees, het bier, laurierblad, pruimen en de bouillon toe en breng langzaam aan de kook.
+
 Dek de pan af en laat 3 uur stoven in de oven.
-Verhit boter in een pan en roerbak de sjalotjes 4 minuten.
-Voeg de sjalotjes en wortel toe aan de stoofschotel en zet nog een uur in de oven.
+
+Verhit boter in een pan en roerbak de sjalotjes 4 minuten. Voeg de sjalotjes en wortel toe aan de stoofschotel en zet nog een uur in de oven.
 
 ## Opmerkingen
 
