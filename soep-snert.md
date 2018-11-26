@@ -11,6 +11,8 @@
 
 * Selderij
 * Laurierblad
+* Eventueel worcestersaus
+* Peper
 
 * 1 1/2 liter water
 
